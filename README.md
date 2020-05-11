@@ -4,6 +4,6 @@ Copyright @ Luke Chu.
  
 ## Description
 
-This will be the main portfolio page for Luke Chu.
-
-Testedit.
+Hello!
+This is my main portfolio page.
+For other personal projects see https://github.com/SpotTheNinja .
