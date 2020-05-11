@@ -6,4 +6,4 @@ Copyright @ Luke Chu.
 
 Hello!
 This is my main portfolio page.
-For other personal projects see https://github.com/SpotTheNinja .
+For other personal projects see https://github.com/SpotTheNinja.
